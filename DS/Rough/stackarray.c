@@ -40,6 +40,7 @@ void push(){
             printf("\nEnter data to push : ");
             scanf("%d",&e);
             STACK[TOP]=e;
+            printf("\n%d Pushed \n",e);
         }
 }
 

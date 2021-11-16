@@ -12,7 +12,7 @@ void main(){
     char c,ch;    
     do{
         printf("\nMAIN MENU");
-        printf("\n\n1.Push\n2.Pop\n3.display");
+        printf("\n\n1.Push\n2.Pop\n3.Display");
         printf("\n\nEnter Choice(1/2/3) : ");
         scanf(" %c",&c);
 
